@@ -46,7 +46,7 @@ endpointyx() {
 	yellow "1. Replace the default Endpoint IP of the WireGuard node: engage.cloudflareclient.com:2408 with the optimal Endpoint IP of the local network"
 
 	# Delete the WARP Endpoint IP preferred tool and its accompanying files
-	rm -f ip.txt
+	rm -f warp ip.txt
 }
 
 endpoint4() {
