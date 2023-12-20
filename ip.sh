@@ -30,7 +30,7 @@ archAffix(){
 
 endpointyx() {
 	# Download the preferred tool software, thanks to an anonymous netizen for sharing the preferred tool
-	wget https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-linux-$(archAffix) -O warp
+	wget https://raw.githubusercontent.com/TheyCallMeSecond/WARP-Endpoint-IP/main/files/warp-linux-$(archAffix) -O warp
 
 	# Cancel the thread limit that comes with Linux to generate the preferred Endpoint IP
 	ulimit -n 102400
