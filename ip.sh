@@ -196,7 +196,7 @@ menu() {
 	clear
 	echo "########################################################"
 	echo -e "#     ${RED}WARP Endpoint IP one-click optimization script${PLAIN}   #"
-	echo -e "# ${GREEN}author${PLAIN}: Misaka               站                      #"
+	echo -e "# ${GREEN}author${PLAIN}: Misaka                                       #"
 	echo -e "# ${GREEN}blog${PLAIN}: https://blog.misaka.rest                       #"
 	echo -e "# ${GREEN}GitHub project${PLAIN}: https://github.com/Misaka-blog       #"
 	echo -e "# ${GREEN}GitLab project${PLAIN}: https://gitlab.com/Misaka-blog       #"
